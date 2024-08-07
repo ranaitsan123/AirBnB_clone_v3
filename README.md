@@ -212,4 +212,4 @@ github repo
 
 ## Authors :black_nib:
 
-* __MJ Johnson__ - <[@ranaitsan123](https://github.com/ranaitsan123)>
+* __Aicha Lahnite__ - <[@ranaitsan123](https://github.com/ranaitsan123)>
